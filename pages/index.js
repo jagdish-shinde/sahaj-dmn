@@ -4,6 +4,6 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-   <h1> this is new project </h1>
+   <h1> welcome to sahaj dhamangaon </h1>
   )
 }
